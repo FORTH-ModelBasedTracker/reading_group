@@ -11,6 +11,7 @@ The material of the [next](#next-topic) and [past](#past-topics) reading groups 
 
 **Reading Material**
  - [The fall of RNN / LSTM (Attention)](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0)
+ - [Attention  Mechanism - blog](https://blog.heuritech.com/2016/01/20/attention-mechanism/)
  - [Awesome List RNNs](https://github.com/kjw0612/awesome-rnn)
 
 # Past Topics
