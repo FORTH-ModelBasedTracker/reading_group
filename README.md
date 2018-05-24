@@ -7,7 +7,7 @@ The material of the [next](#next-topic) and [past](#past-topics) reading groups 
 # Next Topic
 ---
 
-## 31-05-2018 -- More on LSTMs and Attention networks 31-05-2018 
+## 31-05-2018 -- More on LSTMs and Attention networks
 
 **Reading Material**
  - [The fall of RNN / LSTM (Attention)](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0)
