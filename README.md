@@ -16,8 +16,8 @@ The material of the [next](#next-topic) and [past](#past-topics) reading groups 
 
 ## LSTMs 24-05-2018
 A short introduction to LSTMs.
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
-<!--[lstm](http://colah.github.io/posts/2015-08-Understanding-LSTMs/img/LSTM3-chain.png | width=30)-->
+<img align="right" width="100" src="http://colah.github.io/posts/2015-08-Understanding-LSTMs/img/LSTM3-chain.png">
+
 
 **Reading Material**
  - [Original LSTM paper](http://www.bioinf.jku.at/publications/older/2604.pdf)
