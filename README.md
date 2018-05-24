@@ -9,8 +9,9 @@ The material of the [next](#next-topic) and [past](#past-topics) reading groups 
 
 ## 31-05-2018 -- More on LSTMs and Attention networks 31-05-2018 
 
-**Reading Material** TODO
-
+**Reading Material**
+ - [The fall of RNN / LSTM (Attention)](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0)
+ - [Awesome List RNNs](https://github.com/kjw0612/awesome-rnn)
 
 # Past Topics
 ---
@@ -22,7 +23,6 @@ A short introduction to LSTMs.
 **Reading Material**
  - [Original LSTM paper](http://www.bioinf.jku.at/publications/older/2604.pdf)
  - [Intro tutorial on LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
- - [The fall of RNN / LSTM (Attention)](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0)
  - [Awesome List RNNs](https://github.com/kjw0612/awesome-rnn)
  
 ## 17-05-2018 -- Mask RCNN 
