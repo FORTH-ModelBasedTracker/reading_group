@@ -1,6 +1,8 @@
-# reading_group
-Reading group material and links for the reading groups held every Thursday at CVRL/FORTH
+Reading groups are held every Thursday 11.30.
+ - Location: The first floor of the AMI building
+ - Duration: We try to keep it short, typically one hour
 
+The material of the [next](#next) and [past](#past) reading groups will be posted here for easy reference.
 
 # Next Reading group 
 
