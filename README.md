@@ -27,15 +27,21 @@ A short introduction to LSTMs.
  - [Original LSTM paper](http://www.bioinf.jku.at/publications/older/2604.pdf)
  - [Intro tutorial on LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
  - [Awesome List RNNs](https://github.com/kjw0612/awesome-rnn)
- 
+
+
 ## 17-05-2018 -- Mask RCNN 
+
+<img align="right" width="250" src="https://image.slidesharecdn.com/pr057maskrcnn-180107092616/95/pr057-mask-rcnn-26-638.jpg?cb=1515317235">
 
 **Reading Material**
  - [Mark RCNN](https://arxiv.org/abs/1703.06870)
  - [Instance Segmentation with Mask R-CNN and TensorFlow](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46)
 - [DensePose paper](https://arxiv.org/abs/1802.00434)
 
-## 10-05-2018 -- Dense Pose 
+
+## 10-05-2018 -- DensePose 
+
+<img align="right" width="250" src="http://densepose.org/img/anno/anno1.png">
 
 **Reading Material**
 - [DensePose paper](https://arxiv.org/abs/1802.00434)
