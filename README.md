@@ -41,7 +41,7 @@ A short introduction to LSTMs.
 
 ## 10-05-2018 -- DensePose 
 
-<img align="right" width="250" src="http://densepose.org/img/anno/anno1.png">
+<img align="right" width="250" src="http://densepose.org/img/coords.png">
 
 **Reading Material**
 - [DensePose paper](https://arxiv.org/abs/1802.00434)
