@@ -31,6 +31,17 @@ A short introduction to LSTMs.
 ## 17-05-2018 -- Mask RCNN 
 
 **Reading Material**
- - TODO
- - …
+ - [Mark RCNN](https://arxiv.org/abs/1703.06870)
+ - [Instance Segmentation with Mask R-CNN and TensorFlow](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46)
+- [DensePose paper](https://arxiv.org/abs/1802.00434)
 
+## 10-05-2018 -- Dense Pose 
+
+**Reading Material**
+- [DensePose paper](https://arxiv.org/abs/1802.00434)
+- [DensePose website](http://densepose.org/)
+- [DenseReg paper](https://arxiv.org/pdf/1612.01202.pdf)
+- [R-CNN](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=AF8817DD0F70B32AA08B2ECBBA8099FA?doi=10.1.1.715.2453&rep=rep1&type=pdf)
+- [Fast R-CNN](https://arxiv.org/abs/1504.08083)
+- [Faster R-CNN](https://arxiv.org/abs/1506.01497)
+- [FPN](https://arxiv.org/abs/1612.03144)
