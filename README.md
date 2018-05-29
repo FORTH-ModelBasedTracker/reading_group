@@ -1,4 +1,4 @@
-Reading groups are held every Thursday 11.30.
+Reading groups are held every **Thursday 11.30**.
  - Location: The first floor of the AMI building
  - Duration: We try to keep it short, typically one hour
 
