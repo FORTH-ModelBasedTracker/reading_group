@@ -7,7 +7,7 @@ The material of the [next](#next-topic) and [past](#past-topics) reading groups 
 # Next Topic
 ---
 
-## 31-05-2018 -- More on LSTMs and Attention networks
+## 07-06-2018 -- More on LSTMs and Attention networks
 <img align="right" width="250" src="https://cdn-images-1.medium.com/max/800/1*I5s9DOjKW3QTKaT0tHrNLg.png"> 
 
 **Reading Material**
