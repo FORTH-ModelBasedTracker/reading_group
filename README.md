@@ -7,6 +7,17 @@ The material of the [next](#next-topic) and [past](#past-topics) reading groups 
 # Next Topic
 ---
 
+## 21-06-2018 -- More on Attention networks
+<img align="right" width="250" src="https://cdn-images-1.medium.com/max/800/1*I5s9DOjKW3QTKaT0tHrNLg.png"> 
+
+**Reading Material**
+ - Same as the previous + hands on
+  - [The fall of RNN / LSTM (Attention)](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0)
+  - [Attention  Mechanism - blog](https://blog.heuritech.com/2016/01/20/attention-mechanism/)
+  - [Awesome List RNNs](https://github.com/kjw0612/awesome-rnn)
+  - [Distill-Attention and Augmented RNNs](https://distill.pub/2016/augmented-rnns)
+
+
 ## 07-06-2018 -- More on LSTMs and Attention networks
 <img align="right" width="250" src="https://cdn-images-1.medium.com/max/800/1*I5s9DOjKW3QTKaT0tHrNLg.png"> 
 
