@@ -14,6 +14,8 @@ The material of the [next](#next-topic) and [past](#past-topics) reading groups 
  - [CVPR 2018 paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Mahjourian_Unsupervised_Learning_of_CVPR_2018_paper.pdf)
  - [Project website](https://sites.google.com/view/vid2depth)
 
+<br/>
+
 # Past Topics
 ---
 
@@ -22,6 +24,8 @@ The material of the [next](#next-topic) and [past](#past-topics) reading groups 
 
 **Reading Material**
   - [CVPR17 Paper (Arxiv link)](https://arxiv.org/pdf/1702.07432.pdf)
+
+<br/>
 
 ## 21-06-2018 -- More on Attention networks
 <img align="right" width="250" src="https://cdn-images-1.medium.com/max/800/1*I5s9DOjKW3QTKaT0tHrNLg.png"> 
