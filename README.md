@@ -7,14 +7,21 @@ The material of the [next](#next-topic) and [past](#past-topics) reading groups 
 # Next Topic
 ---
 
+## 05-07-2018 -- Unsupervised Learning of Depth and Ego-Motion from Monocular Video Using 3D Geometric Constraints
+<img align="right" width="250" src="https://lh4.googleusercontent.com/HYpTaIJ7BjiicAfxT0wsHxShvshF_9JP0P0GgubKqWJps2oza7avwfeTEAPD5funCErE4V7UBw=w572">
+
+**Reading Material**
+ - [CVPR 2018 paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Mahjourian_Unsupervised_Learning_of_CVPR_2018_paper.pdf)
+ - [Project website](https://sites.google.com/view/vid2depth)
+
+# Past Topics
+---
+
 ## 28-06-2018 -- Multi-Context Attention for Human Pose Estimation
 <img align="right" width="250" src="http://www.ee.cuhk.edu.hk/~xchu/files/cvpr17_logo.png"> 
 
 **Reading Material**
   - [CVPR17 Paper (Arxiv link)](https://arxiv.org/pdf/1702.07432.pdf)
-
-# Past Topics
----
 
 ## 21-06-2018 -- More on Attention networks
 <img align="right" width="250" src="https://cdn-images-1.medium.com/max/800/1*I5s9DOjKW3QTKaT0tHrNLg.png"> 
