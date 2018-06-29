@@ -8,7 +8,7 @@ The material of the [next](#next-topic) and [past](#past-topics) reading groups 
 ---
 
 ## 05-07-2018 -- Unsupervised Learning of Depth and Ego-Motion from Monocular Video Using 3D Geometric Constraints
-<img align="right" width="250" src="https://lh4.googleusercontent.com/HYpTaIJ7BjiicAfxT0wsHxShvshF_9JP0P0GgubKqWJps2oza7avwfeTEAPD5funCErE4V7UBw=w572">
+<img align="right" width="250" src="http://cvrlcode.ics.forth.gr/web_share/vid2depth.gif">
 
 **Reading Material**
  - [CVPR 2018 paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Mahjourian_Unsupervised_Learning_of_CVPR_2018_paper.pdf)
