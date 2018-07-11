@@ -8,7 +8,7 @@ The material of the [next](#next-topic) and [past](#past-topics) reading groups 
 ---
 
 ## 12-07-18 -- LSTM Pose Machines
-<img align="right" width="250" src="https://github.com/lawy623/LSTM_Pose_Machines/raw/master/figs/img.png">
+<img align="right" width="400" src="https://github.com/lawy623/LSTM_Pose_Machines/raw/master/figs/img.png">
 
 **Reading Material**
 
