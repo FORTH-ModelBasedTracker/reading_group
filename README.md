@@ -7,6 +7,19 @@ The material of the [next](#next-topic) and [past](#past-topics) reading groups 
 # Next Topic
 ---
 
+## 12-07-18 -- LSTM Pose Machines
+<img align="right" width="250" src="https://github.com/lawy623/LSTM_Pose_Machines/raw/master/figs/img.png">
+
+**Reading Material**
+
+ - [CVPR 2018 paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Luo_LSTM_Pose_Machines_CVPR_2018_paper.pdf)
+ 
+ <br/>
+ 
+
+# Past Topics
+---
+
 ## 05-07-2018 -- Unsupervised Learning of Depth and Ego-Motion from Monocular Video Using 3D Geometric Constraints
 <img align="right" width="250" src="http://cvrlcode.ics.forth.gr/web_share/vid2depth.gif">
 
@@ -16,8 +29,6 @@ The material of the [next](#next-topic) and [past](#past-topics) reading groups 
 
 <br/>
 
-# Past Topics
----
 
 ## 28-06-2018 -- Multi-Context Attention for Human Pose Estimation
 <img align="right" width="250" src="http://www.ee.cuhk.edu.hk/~xchu/files/cvpr17_logo.png"> 
