@@ -13,7 +13,7 @@ The material of the [next](#next-topic) and [past](#past-topics) reading groups 
 
 **Reading Material**
 
- - [ECCV 2018 paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Luo_LSTM_Pose_Machines_CVPR_2018_paper.pdf)
+ - [ECCV 2018 paper](https://arxiv.org/pdf/1804.04875.pdf)
  - [Project website](https://www.di.ens.fr/willow/research/bodynet/)
  
  <br/>
