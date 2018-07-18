@@ -7,6 +7,21 @@ The material of the [next](#next-topic) and [past](#past-topics) reading groups 
 # Next Topic
 ---
 
+## 19-07-18 -- BodyNet: Volumetric Inference of 3D Human Body Shapes
+<img align="right" width="400" src="https://www.di.ens.fr/willow/research/bodynet/images/bodynet.png">
+<img align="right" width="400" src="https://www.di.ens.fr/willow/research/bodynet/images/bodynet.gif">
+
+**Reading Material**
+
+ - [ECCV 2018 paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Luo_LSTM_Pose_Machines_CVPR_2018_paper.pdf)
+ - [Project website](https://www.di.ens.fr/willow/research/bodynet/)
+ 
+ <br/>
+
+
+# Past Topics
+---
+
 ## 12-07-18 -- LSTM Pose Machines
 <img align="right" width="400" src="https://github.com/lawy623/LSTM_Pose_Machines/raw/master/figs/img.png">
 
@@ -16,9 +31,6 @@ The material of the [next](#next-topic) and [past](#past-topics) reading groups 
  
  <br/>
  
-
-# Past Topics
----
 
 ## 05-07-2018 -- Unsupervised Learning of Depth and Ego-Motion from Monocular Video Using 3D Geometric Constraints
 <img align="right" width="250" src="http://cvrlcode.ics.forth.gr/web_share/vid2depth.gif">
