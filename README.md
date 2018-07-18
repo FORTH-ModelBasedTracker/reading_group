@@ -8,8 +8,8 @@ The material of the [next](#next-topic) and [past](#past-topics) reading groups 
 ---
 
 ## 19-07-18 -- BodyNet: Volumetric Inference of 3D Human Body Shapes
-<img align="right" width="200" src="https://www.di.ens.fr/willow/research/bodynet/images/bodynet.gif">
-<img align="right" width="200" src="https://www.di.ens.fr/willow/research/bodynet/images/bodynet.png">
+<img align="right" width="100" src="https://www.di.ens.fr/willow/research/bodynet/images/bodynet.gif">
+<img align="right" width="100" src="https://www.di.ens.fr/willow/research/bodynet/images/bodynet.png">
 
 **Reading Material**
 
