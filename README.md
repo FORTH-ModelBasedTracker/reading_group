@@ -7,6 +7,18 @@ The material of the [next](#next-topic) and [past](#past-topics) reading groups 
 # Next Topic
 ---
 
+## 13-09-18 -- Learning Monocular 3D Human Pose Estimation from Multi-view Images
+<img align="right" width="300" src="https://i.ytimg.com/vi/WYeo7QdWLHs/maxresdefault.jpg">
+
+**Reading Material**
+
+ - [CVPR 2018 paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/2355.pdf)
+ 
+ <br/>
+
+# Past Topics
+---
+
 ## 19-07-18 -- BodyNet: Volumetric Inference of 3D Human Body Shapes
 <img align="right" width="100" src="https://www.di.ens.fr/willow/research/bodynet/images/bodynet.gif">
 <img align="right" width="100" src="https://www.di.ens.fr/willow/research/bodynet/images/bodynet.png">
@@ -18,9 +30,6 @@ The material of the [next](#next-topic) and [past](#past-topics) reading groups 
  
  <br/>
 
-
-# Past Topics
----
 
 ## 12-07-18 -- LSTM Pose Machines
 <img align="right" width="400" src="https://github.com/lawy623/LSTM_Pose_Machines/raw/master/figs/img.png">
