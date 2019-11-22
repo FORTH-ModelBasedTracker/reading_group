@@ -8,7 +8,7 @@ The material of the [next](#next-topic) and [past](#past-topics) reading groups 
 ---
 
 ## 25-11-19 -- DenseRaC: Joint 3D Pose and Shape Estimation by Dense Render-and-Compare
-<img align="right" width="300" src="https://www.youtube.com/watch?v=vQXQXl2wNCE">
+<img align="right" width="300" src="https://img.youtube.com/vi/vQXQXl2wNCE/0.jpg">
 
 **Reading Material**
 
