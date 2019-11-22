@@ -1,4 +1,4 @@
-[Reading groups](https://forth-modelbasedtracker.github.io/reading_group/) are held every **Thursday 11.30**.
+[Reading groups](https://forth-modelbasedtracker.github.io/reading_group/) are held every **Monday 14.00**.
  - Location: The first floor of the AMI building
  - Duration: We try to keep it short, typically one hour
 
@@ -6,6 +6,32 @@ The material of the [next](#next-topic) and [past](#past-topics) reading groups 
 
 # Next Topic
 ---
+
+## 25-11-19 -- DenseRaC: Joint 3D Pose and Shape Estimation by Dense Render-and-Compare
+<img align="right" width="300" src="https://www.youtube.com/watch?v=vQXQXl2wNCE">
+
+**Reading Material**
+
+ - [ICCV 2019 paper](https://arxiv.org/abs/1910.00116)
+ - [Supplementary video](https://www.youtube.com/watch?v=vQXQXl2wNCE)
+ 
+ <br/>
+
+
+
+# Past Topics
+---
+
+## 18-11-19 -- Pose2Seg: Detection Free Human Instance Segmentation
+<img align="right" width="300" src="https://raw.githubusercontent.com/liruilong940607/Pose2Seg/master/figures/pipeline.jpg">
+
+**Reading Material**
+
+ - [CVPR 2019 paper](https://arxiv.org/abs/1803.10683)
+ - [Project page](http://www.liruilong.cn/projects/pose2seg/index.html)
+ - [Github repo](https://github.com/liruilong940607/Pose2Seg)
+ 
+ <br/>
 
 ## 13-09-18 -- Learning Monocular 3D Human Pose Estimation from Multi-view Images
 <img align="right" width="300" src="https://i.ytimg.com/vi/WYeo7QdWLHs/maxresdefault.jpg">
@@ -15,9 +41,6 @@ The material of the [next](#next-topic) and [past](#past-topics) reading groups 
  - [CVPR 2018 paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/2355.pdf)
  
  <br/>
-
-# Past Topics
----
 
 ## 19-07-18 -- BodyNet: Volumetric Inference of 3D Human Body Shapes
 <img align="right" width="100" src="https://www.di.ens.fr/willow/research/bodynet/images/bodynet.gif">
