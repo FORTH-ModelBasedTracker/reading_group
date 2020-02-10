@@ -1,3 +1,6 @@
+**Note:** We moved the group to workplace.
+This repo is kept for past reference.
+
 [Reading groups](https://forth-modelbasedtracker.github.io/reading_group/) are held every **Monday 14.00**.
  - Location: The first floor of the AMI building
  - Duration: We try to keep it short, typically one hour
